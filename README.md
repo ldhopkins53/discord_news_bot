@@ -1,4 +1,4 @@
-# NewsBot
+# NewsBot (WIP)
 
 A discord bot to keep track of RSS feeds
 
